@@ -1,0 +1,22 @@
+{
+  "name": "qxdn-assert",
+  "version": "0.0.1",
+  "description": "qxdn assert resources",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qxdn/qxdn-assert.git"
+  },
+  "keywords": [
+    "image-host"
+  ],
+  "author": "qxdn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qxdn/qxdn-assert/issues"
+  },
+  "homepage": "https://github.com/qxdn/qxdn-assert#readme"
+}
