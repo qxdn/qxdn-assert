@@ -1,6 +1,6 @@
 {
   "name": "qxdn-assert",
-  "version": "0.6.5",
+  "version": "0.6.6",
   "description": "qxdn assert resources",
   "main": "index.js",
   "scripts": {
